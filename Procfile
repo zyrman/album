@@ -1,0 +1,1 @@
+web: gunicorn album.wsg --log-file -
