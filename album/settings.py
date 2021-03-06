@@ -29,7 +29,7 @@ SECRET_KEY = 'fklt+d@dmhry8rhupdz9-dxv#au-3+pput^!#x2p29xt#r!asf'
 DEBUG = False
 
 # Default Local Server []. But Also Deploy to Heroku
-ALLOWED_HOSTS = ['https://zyrman-album.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['https://zyrman-album.herokuapp.com']
 
 # Application definition
 
